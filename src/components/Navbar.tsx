@@ -3,11 +3,10 @@ import './Navbar.css'
 
 function Navbar() {
   return (
-    <nav className="navbar">
-      <div className="logo"><Link to="/">MyPortfolio</Link></div>
+    <nav className="navbar cloud">
       <ul>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/extra">Extra</Link></li>
+        <li className="nav-title"><Link to="/">VoraciousCutie</Link></li>
+        {/* <li><Link to="/extra">Extra</Link></li> */}
       </ul>
     </nav>
   )
