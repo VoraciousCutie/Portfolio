@@ -20,7 +20,6 @@ function Home() {
           <br/>
           <div className='caution'> <h1>RESS CAUTION WORK IN PROGRESS CAUTION WORK</h1> </div>
 
-          {/* <a className="cta-button" href="">See My Work</a> */}
         </section>
 
       </div>
@@ -99,7 +98,6 @@ function Home() {
         </section>
       </div>
 
-      {/* <p>For now, feel free to check out my socials!</p> */}
     </div>
   )
 }
