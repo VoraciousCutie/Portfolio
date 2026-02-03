@@ -54,7 +54,7 @@ function Home() {
         <section className='socials cloud'>
           <h1>Socials!</h1>
           <p>
-            The gallery here is a work in progress, so in the meantime check out my social below:
+            The gallery here is a work in progress, so in the meantime check out my socials:
             <br/>
             (Content Warning - Socials are 18+)
           </p>
